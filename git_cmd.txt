@@ -12,7 +12,8 @@ git init
   14 git add testing.py                                                                     
   15 git status                                                                             
   16 git rm --cached testing.py                                                             
-  17 git status                                                                             
+  17 git status     
+  git add                                                                        
   18 git add .                                                                              
   19 git status                                                                             
   git commit -m "commit testing"                                                         
