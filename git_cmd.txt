@@ -1,0 +1,26 @@
+ ls                                                                                     
+ ls -l                                                                                  
+  clear                                                                                  
+ ls                                                                                     
+ git init                                                                               
+ ls -a                                                                                  
+git init                                                                               
+   git status                                                                             
+  11 dir                                                                                    
+  12 clear                                                                                  
+  13 git status                                                                             
+  14 git add testing.py                                                                     
+  15 git status                                                                             
+  16 git rm --cached testing.py                                                             
+  17 git status                                                                             
+  18 git add .                                                                              
+  19 git status                                                                             
+  20 git commit -m "commit testing"                                                         
+  21 git status                                                                             
+  22 rm testing                                                                             
+  23 rm testing.py                                                                          
+  24 ls                                                                                     
+  25 git status                                                                             
+  26 git restore testing.py                                                                 
+  27 ls                                                                                     
+  28 clea
