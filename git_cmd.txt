@@ -15,10 +15,10 @@ git init
   17 git status                                                                             
   18 git add .                                                                              
   19 git status                                                                             
-  20 git commit -m "commit testing"                                                         
-  21 git status                                                                             
-  22 rm testing                                                                             
-  23 rm testing.py                                                                          
+  git commit -m "commit testing"                                                         
+  git status                                                                             
+  rm testing                                                                             
+  rm testing.py                                                                          
   24 ls                                                                                     
   25 git status                                                                             
   26 git restore testing.py                                                                 
